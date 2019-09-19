@@ -22,14 +22,8 @@ git clone https://github.com/bjrnfrdnnd/minimal-panel-app
 
 ### iPad development
 
-The first version of the app was coded up entirely on an iPad,
-using a combination of [blink](http://blink.sh)
-[Juno](jhttp://juno.sh),
-and `nano` on my home remote server
-(which is nothing more than a converted gaming tower).
-
-Web app development in Python is now doable
-and we can use modern tablets as a thin client!
+The first version of the app was forked from this repo:
+[ericmj/minimal-binder-app](https://github.com/ericmjl/minimal-panel-app)
 
 ### memory usage
 
