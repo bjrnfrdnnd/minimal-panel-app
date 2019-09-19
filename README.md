@@ -6,6 +6,7 @@ See the full app [here](http://minimal-panel-app.herokuapp.com/minimal-panel).
 
 ## launch on binder
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/bjrnfrdnnd/minimal-panel-app/master?filepath=minimal-panel.ipynb)
+
 ## why this project exists
 
 I spent a day figuring out how to make this happen at work,
@@ -14,7 +15,7 @@ and decided to spend an evening consolidating my knowledge.
 ## "how to use"
 
 ```
-git clone https://github.com/ericmjl/minimal-panel-app
+git clone https://github.com/bjrnfrdnnd/minimal-panel-app
 ```
 
 ## anything else interesting?
