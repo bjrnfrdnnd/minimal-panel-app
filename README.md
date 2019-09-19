@@ -4,6 +4,8 @@ A pedagogical implementation of panel apps served up on a remote machine.
 
 See the full app [here](http://minimal-panel-app.herokuapp.com/minimal-panel).
 
+## launch on binder
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/bjrnfrdnnd/minimal-panel-app/master?filepath=minimal-panel.ipynb)
 ## why this project exists
 
 I spent a day figuring out how to make this happen at work,
