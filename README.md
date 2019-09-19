@@ -20,7 +20,7 @@ git clone https://github.com/bjrnfrdnnd/minimal-panel-app
 
 ## anything else interesting?
 
-### iPad development
+### original repo
 
 The first version of the app was forked from this repo:
 [ericmj/minimal-binder-app](https://github.com/ericmjl/minimal-panel-app)
