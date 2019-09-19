@@ -2,6 +2,6 @@
   "name": "bjrnfdnnd's own version of minimal panel app",
   "description": "A minimal panel app",
   "repository": "https://github.com/bjrnfrdnnd/minimal-panel-app",
-  "logo": "https://node-js-sample.herokuapp.com/node.png",
+  "logo": "https://panel.pyviz.org/_static/logo_stacked.png",
   "keywords": ["panel", " pyviz"]
 }
